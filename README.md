@@ -1,2 +1,0 @@
-# cineflix-landing
-cineflix vermelho
